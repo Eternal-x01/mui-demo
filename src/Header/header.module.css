@@ -1,0 +1,3 @@
+header {
+    flex-shrink: 0; /* Ensure the AppBar doesn't shrink */
+  }
